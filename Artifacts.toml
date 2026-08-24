@@ -1,0 +1,152 @@
+[[tensorprimitives_tapp]]
+arch = "aarch64"
+git-tree-sha1 = "1117c917c205a23e5b2731dd6b1701487f3ffe2a"
+os = "macos"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "27f58faa8bf32fc4091df0dc272329344b7c30a8d224630457b9788c09072443"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "aarch64"
+git-tree-sha1 = "51ff6a1461e90eb66eb38929e15810a051f8f8b6"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "2064f3e670c6899d66e8c97a4b6fcdd23cad323afaf708c1e026641c41b9d6f1"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "aarch64"
+git-tree-sha1 = "7c7b7cda12be31760911d0ca3bb82cf6f6de412a"
+libc = "musl"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "9c607dc28b0358f8baa523ee7894b5ac8de66c89ae8f357c6e3d7ecdf34c85d4"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.aarch64-linux-musl.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "aarch64"
+git-tree-sha1 = "86890d7fefb0d193758baf0f106af183d9e21c63"
+os = "freebsd"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "7a1ebbc9b735572ac6e34cbcc80b20844a1988cd34864c19333c45f1c1542a00"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "022ac413925408b1c267b4254aca11d0d42dd4ed"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "a84a4fc63c49b46084b62e96777f2c024051a991f2bc8bc2ac9e003bdebbacdc"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d3665e4e46be4bb359ffb45980c93ce1225404f3"
+libc = "musl"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "b309c97b9f44098dd66f9c741a29cf2cb3740e52dccf7255574423af42bf3524"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8e9814173b32aa2ed75b1c246598e491821b71fa"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "5acb52a05393bfa10f564a318b79290856551db3dde5deafd71a6294862d78fe"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f2eb167f4fa4151e7347f32353a7f036387f2046"
+libc = "musl"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "c595ba6af78c8936d6fcea18b21e61a4af0958fb3a291bc6b8e3cd78d0726b36"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "i686"
+git-tree-sha1 = "62622ec61091c5602687686c54154cf3579585b0"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "2fcd79e323ab47658ab9c46aa346a4ba1945592e67eb25196b57c15d960d9231"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.i686-linux-gnu.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "i686"
+git-tree-sha1 = "330612315f8564167231916223a4cf6675a4d2a3"
+libc = "musl"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "69ddd9a194b2ac638e027721a32eb137d9dbcdb597a3290a252963b78832f960"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.i686-linux-musl.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "powerpc64le"
+git-tree-sha1 = "85fa2cb316fcec55126150b071547a8e27e6643a"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "ee4321dbcbe9506edd1ce65ed965e5ea2ce7ef246a2be85d096f4ff0c951ad9f"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "riscv64"
+git-tree-sha1 = "bd4850a2920ad9656301790bd4ecab461cad5484"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "55013b95f2798dca7c2a748adce6d24a1b009bb0272db8486a047fe017ab12ae"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.riscv64-linux-gnu.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "x86_64"
+git-tree-sha1 = "2a37b4c0b9ac0ab522fc8b671b99db44b2aaa4ce"
+os = "macos"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "87cd7c306c5ecfb11d67dd23ca49ce65b1a19d4061c7a43fa56bc9c9484df506"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "x86_64"
+git-tree-sha1 = "f4e920e026eaa6e1e44da30659ee2f54ab3ccf64"
+libc = "glibc"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "b837de5d00246b1d304ca701770497e401010ec114f04e1118ab935c5deceefd"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "x86_64"
+git-tree-sha1 = "6a181486312b1967a7a56ada37dccfd5d8dc9783"
+libc = "musl"
+os = "linux"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "f32352afba3c7c6a32c9dbac361319899670c2b20a14df1a10228f83e9f55dbc"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.x86_64-linux-musl.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "x86_64"
+git-tree-sha1 = "8e0ab822783230b9006f4cc3a2afaf22bf533da5"
+os = "freebsd"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "67507fac544866e326e02687ecc232492c29d55098b5713ff140e108c47594db"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[tensorprimitives_tapp]]
+arch = "x86_64"
+git-tree-sha1 = "be9e6fd69c68501ffbe977950af7f23c84096daa"
+os = "windows"
+
+    [[tensorprimitives_tapp.download]]
+    sha256 = "2bc8fe20572a64ba2519cbe33a12d158264a531cbc810a3a193c0dd57ca2d716"
+    url = "https://github.com/JuliaBinaryWrappers/tensorprimitives_tapp_jll.jl/releases/download/tensorprimitives_tapp-v0.1.0+0/tensorprimitives_tapp.v0.1.0.x86_64-w64-mingw32.tar.gz"
